@@ -14,9 +14,9 @@ namespace Balloon.Controllers
     public class BalloonController: ControllerBase
     {
         private readonly BalloonDbContext _dbContext;
-        private readonly IHubContext<BallonHub> _hubContext;
+        private readonly IHubContext<BalloonHub> _hubContext;
 
-        public BalloonController(BalloonDbContext dbContext, IHubContext<BallonHub> hubContext)
+        public BalloonController(BalloonDbContext dbContext, IHubContext<BalloonHub> hubContext)
         {
             _dbContext = dbContext;
             _hubContext = hubContext;

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.SignalR;
 
 namespace Balloon.Hubs
 {
-    public class BallonHub: Hub
+    public class BalloonHub: Hub
     {
         
     }

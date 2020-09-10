@@ -67,7 +67,7 @@ namespace Balloon
 
             app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
 
-            app.UseSignalR(router => router.MapHub<BallonHub>("/hub"));
+            app.UseSignalR(router => router.MapHub<BalloonHub>("/hub"));
             
         }
     }
