@@ -5638,11 +5638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\Balloon\\Balloon\\Balloon.csproj",
+      "projectUniqueName": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\GloboTest\\balloon-backend\\Balloon\\Balloon.csproj",
       "projectName": "Balloon",
-      "projectPath": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\Balloon\\Balloon\\Balloon.csproj",
+      "projectPath": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\GloboTest\\balloon-backend\\Balloon\\Balloon.csproj",
       "packagesPath": "C:\\Users\\HAROLD-MC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\Balloon\\Balloon\\obj\\",
+      "outputPath": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\GloboTest\\balloon-backend\\Balloon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

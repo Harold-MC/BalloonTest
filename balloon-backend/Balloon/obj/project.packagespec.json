@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\Balloon\\Balloon\\Balloon.csproj",
+    "projectUniqueName": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\GloboTest\\balloon-backend\\Balloon\\Balloon.csproj",
     "projectName": "Balloon",
-    "projectPath": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\Balloon\\Balloon\\Balloon.csproj",
-    "outputPath": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\Balloon\\Balloon\\obj\\",
+    "projectPath": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\GloboTest\\balloon-backend\\Balloon\\Balloon.csproj",
+    "outputPath": "C:\\Users\\HAROLD-MC\\Documents\\SmartSchool\\GloboTest\\balloon-backend\\Balloon\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
